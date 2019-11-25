@@ -4,5 +4,6 @@
 
 This repository contains all of the notes taken by [Prateek](https://github.com/prateek-diwedi/) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
-Link to my github page :
+* [Week 1](https://github.com/prateek-diwedi/lighthouse-web-notes/tree/master/Week_1)
+  * [Day 1](https://github.com/prateek-diwedi/lighthouse-web-notes/tree/master/Week_1)
 
